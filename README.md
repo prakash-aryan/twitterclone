@@ -1,6 +1,11 @@
 # Twitter Clone: A React and Tailwind CSS Project
 
+
+
 This project is a Twitter clone built using React and Tailwind CSS. It's designed for developers who have a basic understanding of HTML, CSS, and JavaScript, and want to explore modern web development techniques and libraries.
+
+![twitterClone](https://github.com/prakash-aryan/twitterclone/assets/53960016/1dc6efae-1a93-49b9-a469-6a7e6fdde682)
+
 
 ## What is React and Tailwind CSS?
 
